@@ -1,6 +1,8 @@
 # ☕ Coffee Shop Sales Analysis (Jan - June 2023)
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green) ![Dataset](https://img.shields.io/badge/Dataset-149k%2B%20Rows-blue) ![Analysis](https://img.shields.io/badge/Analysis-Sales%20%26%20Trends-orange)
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green) 
+![Dataset](https://img.shields.io/badge/Dataset-149k%2B%20Rows-blue) 
+![Analysis](https://img.shields.io/badge/Analysis-Sales%20%26%20Trends-orange)
 
 ## 📌 Project Description
 This project provides a **comprehensive data-driven analysis** of a coffee retail chain's performance across three New York City locations: **Hell's Kitchen, Astoria, and Lower Manhattan**.  
